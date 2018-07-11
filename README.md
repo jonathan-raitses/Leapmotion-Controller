@@ -6,17 +6,17 @@ Based on what application you directed youself to from the original \"GUI\",any 
 
 STANDARD CONFIG:
 Right Hand:
-Circle (Clockwise) = Left Click
-Circle (Counterclockwise) = Right Click 
-Screen-tap = Caps Lock
-Swipe = Scroll Up
-Key-tap = Windows-Button Pressed
+Circle (Clockwise) = Left Click.
+Circle (Counterclockwise) = Right Click .
+Screen-tap = Caps Lock.
+Swipe = Scroll Up.
+Key-tap = Windows-Button Pressed.
 
 Left Hand:
-Circle (Clockwise) = Q-Button Pressed
-Circle (Counterclockwise) = W-Button Press
-Screen-tap = E-Button Pressed
-Swipe = R-Button Pressed
-Key-tap = D-Button Pressed
+Circle (Clockwise) = Q-Button Pressed.
+Circle (Counterclockwise) = W-Button Press.
+Screen-tap = E-Button Pressed.
+Swipe = R-Button Pressed.
+Key-tap = D-Button Pressed.
 
 The file locations are set to my personal computer and can be changed in the gui.java, though I did plan to add a dropbox menu for this eventually.
