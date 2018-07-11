@@ -1,6 +1,6 @@
 # Leapmotion-Controller
 
-This project takes your x,y,z axis values through \nuse of the Leap Motion and replicated the mouse driver along with various human actions that could be done through gestures done causing a robot (java.awt.Robot) to do various things (i.e. press a key). Below are the various standard instructions. 
+This project takes your x,y,z axis values through use of the Leap Motion and replicated the mouse driver along with various human actions that could be done through gestures done causing a robot (java.awt.Robot) to do various things (i.e. press a key). Below are the various standard instructions. 
 
 Based on what application you \ndirected youself to from the original \"GUI\",\nmore specific commands are prompted when \napplication is opened if needed.
 
